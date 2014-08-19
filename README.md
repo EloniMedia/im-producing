@@ -1,4 +1,4 @@
 im-producing
 ============
 
-Repo for COM550 Producing Interactive Media
+Repo for Elon University's COM550 Producing Interactive Media, Interactive Media MA Program
