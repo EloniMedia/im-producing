@@ -1,0 +1,14 @@
+body {
+	font-family: Helvetica, Arial, sans-serif;
+	font-size: 1.2em;
+	line-height: 1.65em;
+}
+
+#container {
+	margin: 0 auto;
+	width: 960px;
+}
+
+dt {
+	line-height: 2.6em;
+}
