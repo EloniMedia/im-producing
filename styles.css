@@ -54,7 +54,7 @@ p.fineprint {
 	float: left;
 	min-width: 200px;
 	width: 18%;
-	background: #fff0ef;
+	background: #ffeeff;
 	border: 1px solid #ccc;
 	margin: 20px 5px;
 }
@@ -72,4 +72,20 @@ p.fineprint {
 
 #schedule ul li {
 	list-style-type: none;
+}
+
+.intro {
+	color: #626;
+}
+
+.centeralign {
+	text-align: center;
+}
+
+dl dd {
+	font-size: .8em;
+}
+
+table tr td {
+	padding: 0 5px;
 }
